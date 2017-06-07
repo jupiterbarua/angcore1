@@ -1,0 +1,8 @@
+/Users/jupiter/Documents/angpractice/moshpub/bin/Release/netcoreapp1.1/Moshpub.deps.json
+/Users/jupiter/Documents/angpractice/moshpub/bin/Release/netcoreapp1.1/Moshpub.runtimeconfig.json
+/Users/jupiter/Documents/angpractice/moshpub/bin/Release/netcoreapp1.1/Moshpub.runtimeconfig.dev.json
+/Users/jupiter/Documents/angpractice/moshpub/bin/Release/netcoreapp1.1/Moshpub.dll
+/Users/jupiter/Documents/angpractice/moshpub/bin/Release/netcoreapp1.1/Moshpub.pdb
+/Users/jupiter/Documents/angpractice/moshpub/obj/Release/netcoreapp1.1/Moshpub.AssemblyInfo.cs
+/Users/jupiter/Documents/angpractice/moshpub/obj/Release/netcoreapp1.1/Moshpub.dll
+/Users/jupiter/Documents/angpractice/moshpub/obj/Release/netcoreapp1.1/Moshpub.pdb
